@@ -227,7 +227,7 @@ void loop() {
 * https://compendium.readthedocs.io/en/latest/tasks/drivetrains/swerve.html
 * https://www.heyiamindians.com/how-does-a-swerve-drive-work/
 * https://robotics.choate.edu/wp-content/uploads/2022/02/NASA-RAP-Design-Guide.pdf
-
+* https://www.swervedrivespecialties.com/
 
 ---
 
