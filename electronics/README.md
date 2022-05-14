@@ -2,29 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Fritzing Bill of Materials</title>
-<style type="text/css">
-.meta {
-	font-size: small;
-	margin: 0.4em 0;
-}
-table {
-	border-collapse: collapse;
-}
-th {
-	font-weight: bold;
-	text-align: left;
-	border-bottom: 1px solid black;
-	padding: 0.1em 1.5em 0.2em 0.1em;
-}
-td {
-	border-bottom: 1px solid #CCC;
-	padding: 0.5em 1.5em 0.5em 0.1em;
-}
-.props {
-	font-size: smaller;
-}
-</style>
+
 </head>
 
 <body>
