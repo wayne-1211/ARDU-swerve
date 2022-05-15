@@ -1,7 +1,8 @@
 # ARDUINO SWERVE DRIVE
 ###### tags: `self-learing`
 
-GoogleDrive: [ARDU swerve](https://drive.google.com/drive/folders/1MsAM1nn1kDWHH7wUMu0TGPgG4Fxg6Fsx?usp=sharing)
+* GoogleDrive: [ARDU swerve](https://drive.google.com/drive/folders/1MsAM1nn1kDWHH7wUMu0TGPgG4Fxg6Fsx?usp=sharing)
+* HackMD: [ARDU swerve](https://hackmd.io/@wayne1211/ARDUswerve)
 
 # 甚麼是SWERVE?
 ```Swerve Drive``` is a drivetrain that is specifically designed so that the robot can spin while traveling along any path across the terrain. With each wheel rotating while also pivoting on the vertical axes, the maneuverability is unstoppable.
