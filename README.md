@@ -1,6 +1,8 @@
 # ARDUINO SWERVE DRIVE
 ###### tags: `self-learing`
 
+***建議使用淺色模式瀏覽***
+
 * GoogleDrive: [ARDU swerve](https://drive.google.com/drive/folders/1MsAM1nn1kDWHH7wUMu0TGPgG4Fxg6Fsx?usp=sharing)
 * HackMD: [ARDU swerve](https://hackmd.io/@wayne1211/ARDUswerve)
 
