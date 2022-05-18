@@ -149,7 +149,13 @@ void loop() {
 }
 ```
 >設定各輪子轉向
+## 遇到問題及解決方法 
+1. * servo只能轉180度
+   * 利用程式讓他轉到極限後將角度歸零並改變驅動輪轉向
+2. * 搖桿有雜訊
+   * 利用濾波函式將雜訊去除
 
+---
 # 全機測試
 ## 機構
 ![](https://i.imgur.com/ykLG9Pc.jpg)
@@ -257,8 +263,15 @@ void loop() {
 ```
 >動作
 
-# 改進
+## 遇到問題及解決方法 
+1. * 電流不足以負荷所有馬達
+   * 外接電源供應
+2. * 四組馬達指向不同
+   * 利用程式將誤差修正
 
+---
+# 改進
+# 心得
 # 參考資料:
 * https://www.youtube.com/watch?v=0Xi9yb1IMyA&t=393s&ab_channel=FRC0toAutonomous
 * https://www.youtube.com/watch?v=vS7AwmvIekA&ab_channel=KeplerElectronics
