@@ -46,40 +46,32 @@
 * 對駕駛要求高
 
 # BOM
-</table>
 <table>
   <thead>
 	<tr>
     <th>Amount</th>
     <th>Part Type</th>
-    <th>Properties</th>
     </tr>
   </thead>
   <tbody>
 <tr>
     <td>4</td>
     <td>Basic Servo</td>
-    <td class="props"></td>
 </tr><tr>
     <td>1</td>
     <td>Power plug</td>
-    <td class="props"></td>
 </tr><tr>
     <td>2</td>
     <td>L9110 H-bridge module</td>
-    <td class="props">variant variant 1; part number L9110 H-bridge</td>
 </tr><tr>
     <td>1</td>
     <td>Arduino Uno (Rev3)</td>
-    <td class="props">Arduino UNO (Rev3)</td>
 </tr><tr>
     <td>2</td>
     <td>Black Joystick KY-023</td>
-    <td class="props">variant variant 1</td>
 </tr>
   </tbody>
 </table>
-
 
 
 # 單輪組測試
