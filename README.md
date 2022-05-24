@@ -155,6 +155,9 @@ void loop() {
 ![](https://i.imgur.com/hTOFRfq.jpg)
 
 貼上各接腳腳位可以讓寫程式時減少錯誤
+
+
+![](https://i.imgur.com/Q4uCnGk.jpg)
 ## 程式
 ```arduino=
 // 20220509 WayneLin
